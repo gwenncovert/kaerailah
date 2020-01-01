@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fuegaicah.12inspect.nl/sitemap.xml
